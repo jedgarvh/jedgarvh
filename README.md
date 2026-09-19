@@ -5,7 +5,7 @@ Full-Stack Developer con **7+ años** de experiencia construyendo aplicaciones w
 ## 💼 Expertise Actual
 
 ### Frontend
-- **Angular** (v4-v17, TypeScript, RxJS, NgRx, Signals)
+- **Angular** (v4-v21, TypeScript, RxJS, NgRx, Signals)
 - **Vue.js**, **Next.js**, **React** (basic)
 - **Tailwind CSS**, **Bootstrap**, **SCSS/Sass**
 - Especialista en **Design Systems** y componentes reutilizables
@@ -89,7 +89,7 @@ Sistema de atención al cliente con IA
 ## 🌍 Idiomas
 
 - **Español**: Nativo
-- **English**: Professional (B1+) - Technical & Collaborative
+- **English**: Professional (B1) - Technical & Collaborative
 
 ## 📫 Conecta Conmigo
 
