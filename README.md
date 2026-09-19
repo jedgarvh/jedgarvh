@@ -13,14 +13,14 @@ Full-Stack Developer con **7+ años** de experiencia construyendo aplicaciones w
 
 ### Backend
 - **Node.js/Express**, **Python** (Flask, FastAPI), **C#/.NET**
-- **PHP** (Laravel, custom), **Java**
-- REST APIs, Web Services, Microservices
+- **PHP** (Laravel, custom)
+- **Java** REST APIs, Web Services, Microservices
 - **Cloud Functions** (AWS Lambda, GCP Cloud Functions)
 
 ### Mobile (Nativo & Multiplataforma)
 - **iOS**: Swift, UIKit - Desarrollo nativo
 - **Android**: Kotlin, Java, MVVM, Clean Architecture
-- **Flutter** 🚀 (aprendiendo activamente)
+- **Flutter**: Provider/Riverpod, Clean Architecture, Firebase/GCP, SQLite/Hive, Notificaciones push, Testing, Play Store deployment
 - **Ionic/Capacitor**: Desarrollo cross-platform
 
 ### Cloud & DevOps
